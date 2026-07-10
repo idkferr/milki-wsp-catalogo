@@ -13,7 +13,7 @@ export interface Product {
 }
 
 export const products: Product[] = [
-  { id: "1", numero_producto: "#001", nombre: "Bolsa al vacío", descripcion: "Ideal para organizar y ahorrar espacio.", precio: 2000, categoria: "Casa", imagen_url: "/Productos/Casa/Bolsa_al_vacío.jpeg" },
+  { id: "1", numero_producto: "#001", nombre: "Bolsa al vacío", descripcion: "Ideal para organizar y ahorrar espacio000.", precio: 2000, categoria: "Casa", imagen_url: "/Productos/Casa/Bolsa_al_vacío.jpeg" },
   { id: "2", numero_producto: "#002", nombre: "Maleta lápices 180 piezas", descripcion: "Completo set de arte con 180 piezas.", precio: 9990, categoria: "Libreria", imagen_url: "/Productos/Libreria/Maleta_lapices.jpeg" },
   { id: "3", numero_producto: "#003", nombre: "Set tintura", descripcion: "Set completo de 4 piezas para aplicar tintura.", precio: 1200, categoria: "Belleza", imagen_url: "/Productos/Belleza/Set_tintura_4_pcs.jpeg" },
   { id: "4", numero_producto: "#004", nombre: "Espejo Flor 3 piezas", descripcion: "Set de 3 hermosos espejos decorativos en forma de flor.", precio: 9990, categoria: "Casa", imagen_url: "/Productos/Casa/Set_espejos_3flor.jpeg" },

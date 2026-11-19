@@ -1,8 +1,8 @@
-# 🌸 Milki Remate · Catálogo digital
+# Milki Remate · Catálogo digital
 
 Catálogo web para **Milki Remate**, un emprendimiento de venta de productos de temporada con delivery. Las clientas ven los productos por categoría, arman su carrito y **envían el pedido directo por WhatsApp**, con el detalle y el total ya calculados.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Catálogo con 50+ productos reales**, cada uno con su foto, número, descripción y precio en pesos chilenos
 - **Filtro por categoría**: Accesorios, Belleza, Casa, Cocina, Librería, Mascotas y Vestuario
@@ -11,14 +11,14 @@ Catálogo web para **Milki Remate**, un emprendimiento de venta de productos de 
 - **Pedido por WhatsApp**: genera un mensaje con cada producto, su cantidad y el total, y abre el chat del negocio (`wa.me`) para coordinar disponibilidad y delivery
 - Diseño adaptado a celular, que es donde se comparte y usa el catálogo
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **React 19** + **TypeScript**
 - **TanStack Start / TanStack Router** sobre **Vite**
 - **Tailwind CSS** y componentes **shadcn/ui** (Radix UI)
 - Prototipado con **[Lovable](https://lovable.dev)**
 
-## 👩‍💻 Mi trabajo
+## Mi trabajo
 
 La base de la interfaz se generó con Lovable. Sobre esa base, yo:
 
@@ -29,7 +29,7 @@ La base de la interfaz se generó con Lovable. Sobre esa base, yo:
 
 La vista ampliada con zoom la desarrolló Lorena Uribe.
 
-## 📁 Estructura
+## Estructura
 
 ```
 src/
@@ -40,7 +40,7 @@ src/
 public/Productos/        Fotos de los productos, una carpeta por categoría
 ```
 
-## 🚀 Cómo ejecutarlo
+## Cómo ejecutarlo
 
 ```bash
 git clone https://github.com/idkferr/milki-wsp-catalogo.git

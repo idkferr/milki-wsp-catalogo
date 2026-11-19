@@ -6,6 +6,7 @@ Catálogo web para **Milki Remate**, un emprendimiento de venta de productos de 
 
 - **Catálogo con 50+ productos reales**, cada uno con su foto, número, descripción y precio en pesos chilenos
 - **Filtro por categoría**: Accesorios, Belleza, Casa, Cocina, Librería, Mascotas y Vestuario
+- **Vista ampliada con zoom**: al tocar un producto se abre su foto y se puede explorar con zoom, con mouse o con el dedo
 - **Carrito de compras**: agregar, sumar o restar unidades, quitar productos y ver el total
 - **Pedido por WhatsApp**: genera un mensaje con cada producto, su cantidad y el total, y abre el chat del negocio (`wa.me`) para coordinar disponibilidad y delivery
 - Diseño adaptado a celular, que es donde se comparte y usa el catálogo
@@ -25,6 +26,8 @@ La base de la interfaz se generó con Lovable. Sobre esa base, yo:
 - cargué los productos reales del negocio con sus precios y **fotos reales**, ordenadas por categoría
 - adapté el flujo de pedido para que el mensaje de WhatsApp salga listo para confirmar
 - ajusté textos, metadatos para compartir el enlace (Open Graph) y la información del sitio
+
+La vista ampliada con zoom la desarrolló Lorena Uribe.
 
 ## 📁 Estructura
 
